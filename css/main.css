@@ -9,6 +9,10 @@ body {
     flex-direction: column;
 }
 
+.content {
+    text-align: justify;
+}
+
 main {
     margin: auto;
     padding: 25px;

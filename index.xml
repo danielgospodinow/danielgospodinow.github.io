@@ -5,11 +5,7 @@
     <link>https://danielgospodinow.com/</link>
     <description>Recent content on D.G.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://danielgospodinow.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://danielgospodinow.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Me</title>
       <link>https://danielgospodinow.com/me/</link>

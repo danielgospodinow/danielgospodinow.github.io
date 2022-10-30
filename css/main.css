@@ -9,10 +9,6 @@ body {
     flex-direction: column;
 }
 
-.content {
-    text-align: justify;
-}
-
 main {
     margin: auto;
     padding: 25px;
@@ -49,8 +45,8 @@ img {
 /* Profile picture */
 
 .profile {
-    width: 20vh;
-    height: 20vh;
+    width: 10vh;
+    height: 10vh;
     border-radius: 50%;
 }
 
